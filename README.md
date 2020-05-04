@@ -9,3 +9,10 @@ They're probably not very useful for everybody, this is just a personal thing I'
 If anyone wants to use this though, just run `python ./install.py` and it will copy the scripts from my git repos into the `./ctf-scripts/scripts` folder.
 
 Don't forget to change permissions to allow execution and add the `scripts/` folder to the $PATH variable if you want to be able to execute the script from anywhere (`export PATH=$PATH:~/ctf-scripts/scripts`)
+
+## Contents
+
+'repos.txt' currently contains the folling scripts;
+
+* Hexvert
+
