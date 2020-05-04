@@ -2,7 +2,7 @@
 
 ## Hello!
 
-This is a (very) little collection of ctf scripts I've made.
+This is a (very) small collection of ctf scripts I've made.
 
 They're probably not very useful for everybody, this is just a personal thing I'm working on to help me do CTFs.
 
